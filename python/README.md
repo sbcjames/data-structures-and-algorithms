@@ -74,3 +74,19 @@ From the root of the `data-structures-and-algorithms/python` folder, execute the
 - **Run every possible test** - `pytest`
 - **Run filtered tests** - `pytest -k some_filter_text`
 - **Run in watch mode** - `ptw` or `pytest-watch`
+
+code challenge #2
+
+Challenge Summary
+Write a function called insertShiftArray which takes in an array and the value to be added. Without utilizing any of the built-in methods available to your language, return an array with the new value added at the middle index.
+
+Challenge Description
+Write a function called insertShiftArray which takes in an array and the value to be added. Without utilizing any of the built-in methods available to your language, return an array with the new value added at the middle index.
+
+Approach & Efficiency
+Took about 45 minutes as a group to complete, see attached img
+
+Solution
+See image in assets folder
+
+PR link: https://github.com/sbcjames/data-structures-and-algorithms/pull/16 
